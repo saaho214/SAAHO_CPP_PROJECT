@@ -1,0 +1,4 @@
+to run project in cmd : -(but needed c++ compiler)
+
+1 step - g++ hotelManagementSystem.cpp -o hotel
+2 step - hotel
