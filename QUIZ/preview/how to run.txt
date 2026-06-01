@@ -1,0 +1,4 @@
+to run project in cmd : -(but needed c++ compiler)
+
+1 step - g++ (filename).cpp -o main
+2 step - main
